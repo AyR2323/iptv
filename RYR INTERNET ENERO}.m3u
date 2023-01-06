@@ -32,7 +32,7 @@ http://45.35.46.43:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dominicaninternet.com/uploads/avatarServicio/454.jpg" group-title="REPUBLICA DOMINICANA", CANAL HD 9 
 http://ss2.domint.net:2138/cvh_str/colorvisionhd/chunklist_w1149703179.m3u8
 
-#EXTINF:-1 tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="REPUBLICA DOMINICANA",MicrovisionHD 10
+#EXTINF:-1 tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="REPUBLICA DOMINICANA",MicrovisionHD 10 AyR
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
 
 
@@ -52,7 +52,7 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="NOTICIA",  CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/yuna-vision-10-300x169.jpg" group-title="REPUBLICA DOMINICANA",Yuna Visión
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/yuna-vision-10-300x169.jpg" group-title="REPUBLICA DOMINICANA",Yuna VisiÃ³n
 http://ss1.domint.net:2300/yv_str/yuna/chunklist_w452590316.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_hbo-2_m.png" group-title="VARIEDA", HBO 2 HD
@@ -92,7 +92,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?johantv.
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDA",  CRIMEN E INVESTIGACION
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDA", Televisión Tele Roja
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDA", TelevisiÃ³n Tele Roja
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="VARIEDA", CBTV
@@ -157,7 +157,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.freeetv.com/images/01_logo/cbn_tv_usa.jpg" group-title="VARIEDA",CBN Español
+#EXTINF:0 tvg-logo="http://www.freeetv.com/images/01_logo/cbn_tv_usa.jpg" group-title="VARIEDA",CBN EspaÃ±ol
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="VARIEDA", Teleuno | SD
