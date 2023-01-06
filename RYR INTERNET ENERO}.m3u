@@ -1,0 +1,239 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://webdemusica.org/wp-content/uploads/mejores-dj-1.jpg" group-title="VARIEDA", DJ 23K | SD
+
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="VARIEDA", Teleuno | SD
+
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per%C3%BA.png" group-title="VARIEDA", PERU:Digital TV 2 | SD
+
+http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-O1lvn7ixI3I/VezDtfKka6I/AAAAAAAADGM/KeEL0qq9Ng8/s1600/advenir.JPG" group-title="RELIGION",Red Advenir
+
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="VARIEDA", Telered HD | 
+
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+
+
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://carlosdesanjuan.com/wp-content/uploads/2017/05/certv.jpg" group-title="REPUBLICA DOMINICANA", CANAL 4
+http://45.35.46.43:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dominicaninternet.com/uploads/avatarServicio/454.jpg" group-title="REPUBLICA DOMINICANA", CANAL HD 9 
+http://ss2.domint.net:2138/cvh_str/colorvisionhd/chunklist_w1149703179.m3u8
+
+#EXTINF:-1 tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="REPUBLICA DOMINICANA",MicrovisionHD 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemicro Internacional" tvg-logo="http://66.70.182.153/10G05/Telemicro_Intl2.png" group-title="REPUBLICA DOMINICANA",Telemicro Internacional 
+
+http://puntoz.net:8000/live/puntoz/puntoz/34617.ts
+
+#EXTINF:-1 tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/04/digital-15-1.png" group-title="REPUBLICA DOMINICANA",Digital 15
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/U/univision-2013-logo-EF57C43B2C-seeklogo.com.png" group-title="VARIEDA", Univision
+http://tecnotv.xyz/aptv/univision?index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="NOTICIA",  ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="NOTICIA",  CBS News HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/yuna-vision-10-300x169.jpg" group-title="REPUBLICA DOMINICANA",Yuna Visión
+http://ss1.domint.net:2300/yv_str/yuna/chunklist_w452590316.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_hbo-2_m.png" group-title="VARIEDA", HBO 2 HD
+
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="VARIEDA",  CNBC HD
+http://93.87.85.71/PLTV/88888888/224/3221226774/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqItYB1ayo8ZvEJFS8LuNff4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001815%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2&from=2&hms_devid=4
+
+#EXTINF:--1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGVAWMmcih_X1zC8AL7PW4burv1DG2-Z7euvo4WyrW46jhBEv" group-title="REPUBLICA DOMINICANA",TRA 45
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w1584687002.m3u8
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/12/galaxiatv.png" group-title="REPUBLICA DOMINICANA",Galaxia TV 42
+http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w1071664231.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="REPUBLICA DOMINICANA",Luna TV
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title="Infantil", Pequeradio
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://endimages.s3.amazonaws.com/cache/80/1a/801afbd2d7a6afc84d186e5c4c46210f.jpg" group-title="Infantil", Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://mangotvrd.com/wp-content/uploads/2012/12/MANGO-COLOR1.jpg" group-title="REPUBLICA DOMINICANA",Mango TV RD
+http://mangotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2016/09/logo_teleuniverso_400px.png" group-title="REPUBLICA DOMINICANA",Teleuniverso 29
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2iY80uXB_91qkMmNvLlTxEO6JGERkQkTHZI8tN8tiTmwqbAL" group-title="VARIEDA", Telemundo 62
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="VARIEDA",BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?johantv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDA",  CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDA", Televisión Tele Roja
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="VARIEDA", CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="VARIEDA",  Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="VARIEDA",  Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space HD" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/can_hd/26.png" group-title="VARIEDA",Space HD
+
+http://puntoz.net:8000/live/puntoz/puntoz/16536.ts
+
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel HD" tvg-logo="http://w-hd.org:8000/res/html/whd/images/logos/canales/cine/13.png" group-title="VARIEDA",Universal Channel HD
+h
+ttp://puntoz.net:8000/live/puntoz/puntoz/16529.ts
+
+#EXTINF:-1 tvg-logo="https://img.culturacolectiva.com/content/2017/02/cnn-en-espan%CC%83ol-medium.jpg" group-title="VARIEDA",Latinos:CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="VARIEDA", Azteca+ Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3659847571/3bd76f160bcb7b60e57c92f8f6bbf099.jpeg" group-title="DEPORTES",MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="507" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="VARIEDA",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-id="508" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="VARIEDA",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZxJ6v5DgdMk/maxresdefault.jpg" group-title="VARIEDA",HBTV Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-id="509" tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="VARIEDA",HBO2 HD
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/627125383767453697/UWVWxotk_400x400.png" group-title="PELICULA",PELICULAS HD 24/7
+
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="PELICULA",PELICULAS HD 24/7
+ #1
+
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="DEPORTES",CDO DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.arabe-media.com/tv/img357.png" group-title="DEPORTES",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+
+#EXTINF:0 tvg-logo="http://www.freeetv.com/images/01_logo/cbn_tv_usa.jpg" group-title="VARIEDA",CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="VARIEDA", Teleuno | SD
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="510" tvg-logo="https://i.imgur.com/xsxgroC.png" group-title="MUSICA 23",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="510" tvg-logo="http://www.loquenuncaviste.com/imgs/portafolio/fotopreview31_367.png" group-title="MUSICA 23", Montecarlo
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="VARIEDA",Animal Planet
+http://tvpremiumhd.club/lista-gratuita/green/tv/b/57.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="MUSICA 23",MUSICA: Foxmix 
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/679683716860477441/zWYv20t3_400x400.jpg" group-title="MUSICA 23",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/jLb5Zxa5XXtCU9DY9W06X0Uz5nAUEkqBWOR_apwg5KE-j59IhZdXX7VqltZtoU4KNQ=h310" group-title="RELIGION",RTV
+http://178.32.53.254/radiovida/mobile/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 tvg-logo="http://www.wtjr.org/uploads/8/4/5/8/8458149/7569092_orig.png" group-title="RELIGION",CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="VARIEDA", TEN HondurasHD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="NOTICIA", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://culturaenlinea.uy/files/space/617/file/4376/teledoce_logo-9779f638578145241b9a12e4a19c5c72.png" group-title="NOTICIA", Teledoce
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+
+#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/e5Xf4RrQVrxSwV2MG3I5sSjBieX-185x278.jpg" group-title="PELICULAS ",EL FINAL DE TODO
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/How.It.Ends.2018.Latino.mp4
+
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="PELICULAS", Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg" group-title="PELICULAS",DEAD POOL 2
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Deadpool.2.2018.Latino.mp4
+
+#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg" group-title="PELICULAS",PANTERA NEGRA
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Black.Panther.2018.Latino.mp4
+
+
+#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/uXcL5VprgcDqwlLG3kYX7BtrX0W-185x278.jpg" group-title="PELICULAS",RESCATE EN ENTEBBE www.tv23.com
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/7.Days.in.Entebbe.2018.Latino.mp4
+
+#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/1MwoZ4U8SGm7yIzfPFcTTbiiOYY-185x278.jpg" group-title="PELICULAS",DIOS NO ESTA MUERTO 3www.tv23.com
+https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Gods.Not.Dead.3.2018.Latino.mp4
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/89/14/77/20159903.jpg" group-title="PELICULAS", EL SENHOR DE LA GUERRA HD
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/14/04/24/11/11/238403.jpg" group-title="PELICULAS",  ESPIA POR ACCIDENTE HD
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="PELICULAS", Alien Covenant (2017)
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="PELICULAS", Atomica HD
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/9/9a/Todopoderoso.jpg/revision/latest?cb=20090914163435&path-prefix=es" group-title="PELICULAS", Todo Poderoso
+https://bit.ly/2GajoTS
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEJzl3GX0P8/0.jpg" group-title="PELICULAS", Una Loca Pelicula de The Walking Dead
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/45/1093.png" group-title="PELICULAS", Terror en la Oscuridad 
+http://srregio.xyz/insidecast
+
+
