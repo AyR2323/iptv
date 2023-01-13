@@ -12,6 +12,30 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="190" tvg-name="Urbancris TV" tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png", Urbancris TV | DO
+https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="709" tvg-name="Acento TV" tvg-logo="https://lh3.googleusercontent.com/--Mch8rI4AZw/XzgSWZa6SlI/AAAAAAAA4R0/AW6GE5K1_hAW72Uako_hsH4arrZ9pgCvQCK8BGAsYHg/s0/2020-08-15.png", Acento TV | DO
+http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="717" tvg-name="Cibervision" tvg-logo="https://lh3.googleusercontent.com/-WjWVuyJWVMo/XzgVgnbtUBI/AAAAAAAA4TI/3mfIbpL5mBEbzKZVdsGW4gPqEhDdT3uYACK8BGAsYHg/s0/2020-08-15.jpg", Cibervision | DO
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1315" tvg-name="Explosion TV" tvg-logo="https://i.paste.pics/3e89adfafb9e6e4f34f89e6f541a4c34.png", Explosion TV | DO
+https://vdo1.streamgato.us:3158/live/ysmavisionlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="721" tvg-name="Fuego TV" tvg-logo="https://lh3.googleusercontent.com/-Yf-U57lYWTA/XzgV6SlCSxI/AAAAAAAA4Tc/Xono2T0plso6ImGpmCNRByn9akdBEoPLQCK8BGAsYHg/s0/2020-08-15.jpg", Fuego TV | DO
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="734" tvg-name="RNN" tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN | DO
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="744" tvg-name="Telemilenio" tvg-logo="https://lh3.googleusercontent.com/-KHspoxJrbmA/Xzgces4V4PI/AAAAAAAA4VY/1vwbHhjTS5EV8JmV5EXQm2giqFCUaPlBQCK8BGAsYHg/s0/2020-08-15.png", Telemilenio | DO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="746" tvg-name="Telenord 10" tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10 | DO
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="747" tvg-name="Telenord 12" tvg-logo="https://lh3.googleusercontent.com/-H-NVSh7JGf4/XzgczIRMOsI/AAAAAAAA4Vk/y_Lv0icuD_kPVSTqLQ89IpjhZEd3ad1aACK8BGAsYHg/s0/2020-08-15.jpg", Telenord 12 | DO
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="745" tvg-name="Telenord 8" tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8 | DO
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion | DO
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="VARIEDA", Telered HD | 
 
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
