@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://webdemusica.org/wp-content/uploads/mejores-dj-1.jpg" group-title="VARIEDA", DJ 23K | SD
+#EXTINF:-1 tvg-logo="https://webdemusica.org/wp-content/uploads/mejores-dj-1.jpg" group-title="VARIEDA", AyR SolucionesRD Musica | SD
 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
@@ -36,6 +36,12 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?Playlis
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486476481.jpg" group-title="Chileiptv" , CampusTv
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Chileiptv" , PE - IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg" group-title="Chileiptv" , ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="VARIEDA", Telered HD | 
 
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
