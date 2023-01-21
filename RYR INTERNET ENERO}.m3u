@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://webdemusica.org/wp-content/uploads/mejores-dj-1.jpg" group-title="VARIEDA", AyR SolucionesRD Musica | SD
-
+#EXTINF:-1 tvg-logo="http://c.files.bbci.co.uk/12410/production/_107186747_descargamusica.jpg" group-title="VARIEDA", AyR SolucionesRD Musica | SD
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
 
-#EXTINF:-1 tvg-id="887" tvg-name="Hits 360 AR SOLUCIONESRD" tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png", Hits 360 | DO
+#EXTINF:-2 tvg-id="887" tvg-name="Hits 360 AR SOLUCIONESRD" tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/B9z1XRo.png" group-title="Undefined",Antena 7 (360p)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
@@ -62,6 +61,7 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?Playlis
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="751" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion | DO
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1486476481.jpg" group-title="Chileiptv" , CampusTv
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637965.png" group-title="Chileiptv" , PE - IPe
